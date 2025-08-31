@@ -28,7 +28,7 @@ Create a responsive recipe page that displays:
 ### Links
 
 - Solution URL: [https://github.com/AsmaaG87/RecipePage](https://github.com/AsmaaG87/RecipePage)
-- Live Site URL: [https://github.com/AsmaaG87/RecipePage/](https://github.com/AsmaaG87/RecipePage/)
+- Live Site URL: [https://asmaag87.github.io/RecipePage/](https://asmaag87.github.io/RecipePage/)
 
 ## My process
 
